@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\GitHub\Archivos-binarios\Archivo binarios\bin\Debug\Archivo binarios.exe.config
+C:\Users\DELL\Documents\GitHub\Archivos-binarios\Archivo binarios\bin\Debug\Archivo binarios.exe
+C:\Users\DELL\Documents\GitHub\Archivos-binarios\Archivo binarios\bin\Debug\Archivo binarios.pdb
+C:\Users\DELL\Documents\GitHub\Archivos-binarios\Archivo binarios\obj\Debug\Archivo binarios.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Archivos-binarios\Archivo binarios\obj\Debug\Archivo binarios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Archivos-binarios\Archivo binarios\obj\Debug\Archivo binarios.exe
+C:\Users\DELL\Documents\GitHub\Archivos-binarios\Archivo binarios\obj\Debug\Archivo binarios.pdb
